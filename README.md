@@ -4,7 +4,7 @@ WhatsApp Bulk Texter
 # Requirements
 1. Python 3.6.x + (Recommended: Latest version)
 2. Google Chrome
-3. Python packages listed in requirements.txt (See item #5 in the Setup section)
+3. Python packages listed in requirements.txt (See item #4 in the Setup section)
 
 # Setup
 1. Install the latest version of Python from https://www.python.org or the Microsoft Store (Windows only)
