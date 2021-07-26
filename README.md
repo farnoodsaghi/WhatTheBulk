@@ -23,4 +23,4 @@ WhatsApp Bulk Texter
 6. Double check your message and numbers and press ENTER to continue.
 7. Once the Chrome window opens up, scan the WhatsApp Web QR code to login
 8. The program should then carry on sending your message to all the numbers. For best results, make sure you do NOT minimize the Chrome window while the program is running and you don't block the window with other application windows.
-9. DISCLAIMNER: I am not responsible for anyone getting banned for using this program. The use of third party bulk-texting applications is against WhatsApp's ToS and they could ban you for it. That being said, it is highly unlikely if you use this program responsibly. Limit the number of messages you send to =<150 daily and you should be fine. 
+9. DISCLAIMER: I am not responsible for anyone getting banned for using this program. The use of third party bulk-texting applications is against WhatsApp's ToS and they could ban you for it. That being said, it is highly unlikely if you use this program responsibly. Limit the number of messages you send to =<150 daily and you should be fine. 
